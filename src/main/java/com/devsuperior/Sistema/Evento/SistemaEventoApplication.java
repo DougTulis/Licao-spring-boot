@@ -9,7 +9,7 @@ public class SistemaEventoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SistemaEventoApplication.class, args);
 		
-		System.out.println("Conexao procedente");
+		
 	}
 
 }
